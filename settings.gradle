@@ -1,0 +1,12 @@
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url 'https://github.com/kaifengCynopsis/kyc-onboarding-android/releases/download/0.1.0-beta.1'
+            content {
+                includeGroup 'com.cynopsis.onboarding'
+            }
+        }
+    }
+}
