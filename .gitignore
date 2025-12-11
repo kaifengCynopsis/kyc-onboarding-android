@@ -1,0 +1,19 @@
+# Build outputs
+build/
+*.aar
+*.apk
+*.ap_
+*.dex
+# Gradle
+.gradle
+gradle/
+gradlew
+gradlew.bat
+# IDE
+.idea/
+*.iml
+.DS_Store
+# Local configuration
+local.properties
+# Release artifacts (kept in GitHub Releases)
+output/
