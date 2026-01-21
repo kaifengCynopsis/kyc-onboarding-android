@@ -1,6 +1,6 @@
 dependencies {
     // KYC Onboarding SDK (Binary Distribution)
-    implementation("com.cynopsis.onboarding:sdk:0.1.0-beta.1@aar") {
+    implementation("com.cynopsis.onboarding:kyc-sdk:0.1.0-beta.2@aar") {
         isTransitive = true
     }
     // 必需依赖（自动下载）
